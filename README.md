@@ -1,11 +1,13 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.Zrg-NB8s_mcxkl-NgCZs2AHaEK?rs=1&pid=ImgDetMain)](https://akash30340.io)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">A Passionate Frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash30340&label=Profile%20views&color=0e75b6&style=flat" alt="akash30340" /> </p>
 
+- 🔭 I’m currently working on **Underwater Image Enhancement**
+
 - 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://github.com/akash30340](https://github.com/akash30340)
 
 - 💬 Ask me about **React, Machine Learning**
 
@@ -13,8 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2101640130005_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2101640130005_it" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/akash-singh-81478a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akash-singh-81478a228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24761550/akash-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24761550/akash-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/__thakur_akashsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__thakur_akashsingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/2101640130005_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/2101640130005_it" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash30340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash30340" height="30" width="40" /></a>
 </p>
 
