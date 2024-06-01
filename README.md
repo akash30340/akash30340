@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Underwater Image Enhancement**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash30340](https://github.com/akash30340)
 
