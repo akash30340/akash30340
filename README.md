@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/OIP.Zrg-NB8s_mcxkl-NgCZs2AHaEK?rs=1&pid=ImgDetMain)](https://akash30340.io)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash30340&label=Profile%20views&color=0e75b6&style=flat" alt="akash30340" /> </p>
