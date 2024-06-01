@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **C++ ,Pyhton**
+- 💬 Ask me about **React, Machine Learning**
 
 - 📫 How to reach me **rajawatakash3007@gmail.com**
 
