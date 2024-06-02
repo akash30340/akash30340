@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash30340](https://github.com/akash30340)
 
-- 💬 Ask me about **React, Machine Learning**
+- 💬 Ask me about **DSA, Competitive Coding, Machine Learning**
 
 - 📫 How to reach me **rajawatakash3007@gmail.com**
 
